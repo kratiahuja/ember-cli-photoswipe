@@ -18,8 +18,11 @@
   "author": "Daniel Ochoa <dannytenaglias@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "broccoli-funnel": "^0.2.3",
+    "broccoli-merge-trees": "^2.0.0",
     "ember-cli-babel": "^5.0.0",
-    "broccoli-funnel": "^0.2.3"
+    "exists-sync": "^0.0.4",
+    "fastboot-transform": "^0.1.0"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
